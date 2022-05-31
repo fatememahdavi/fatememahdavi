@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="400"/>
+  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fatememahdavi&style=flat-square&color=blue" alt=""/>
 <div>
+<h1 align="center">
+  hey there 👋
+</h1>
