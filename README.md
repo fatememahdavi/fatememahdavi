@@ -31,7 +31,17 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fatememahdavi&style=flat-square&color=blue" alt=""/>
-<div>
+</div>
 <h1 align="center">
   hey there 👋
 </h1>
+  
+ ---
+
+### :woman_technologist: About Me :
+I am a MSc student in Geospatial Information System(GIS) and Full Stack Developer from Iran.
+
+- 🔭 I’m working as a GIS specialist-Software Engineer and contributing to frontend, backend and data analysis.
+- 🌱 I'm currently learning web application technologies.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://ir.linkedin.com/in/fatememahdavi)
+- ⚡ In my free time, I read tech articles.
