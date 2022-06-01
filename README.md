@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="250" height="300"/>
+  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="200" height="250"/>
 </div>
 
 <div id="badges" align="center">
