@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76846307?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="300" height="300"/>
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76846307?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
 </div>
 
 
