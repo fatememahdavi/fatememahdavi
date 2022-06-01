@@ -15,18 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="250"/>
+  <img src="https://i.pinimg.com/564x/4a/b4/b6/4ab4b63600306997454234ddd77e516b.jpg" width="250" height="300"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://ir.linkedin.com/in/fatememahdavi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div align="center">
