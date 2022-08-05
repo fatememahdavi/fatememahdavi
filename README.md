@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div id="header" align="center">
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76846307?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
 </div>
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fatememahdavi&style=flat-square&color=blue" alt=""/>
 </div>
