@@ -37,10 +37,12 @@ I’m a MSc student in Geospatial Information System(GIS) and Full Stack Develop
       <div align="center">  
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-        <img src="https://leafletjs.com/docs/images/logo.png" title="Laflet" alt="leaflet " width="40" height="40"/>&nbsp;
+        <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="60" height="40"/>&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="100" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="100" height="40"/>&nbsp;
       </div>
     </td>
     <td valign="top" width="33%">
@@ -50,15 +52,17 @@ I’m a MSc student in Geospatial Information System(GIS) and Full Stack Develop
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/gdal/gdal-ar21.svg" title="Gdal" alt="Gdal" width="80" height="80"/>&nbsp;
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center">  
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="Sqlalchemy"  alt="Sqlalchemy" width="70" height="45"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="Sqlalchemy"  alt="Sqlalchemy" width="70" height="45"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FNO7mwZmOiehB-AQ8TwcZOZZW6Xuf2ReBg&usqp=CAU" title="ElasticSearch" alt="ElasticSearch" width="90" height="40"/>&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiAoOLt5if09E0Yy8fs-jFRLJLbnXnKhHdwATtChXz4w4V2Mi6DSUt4IAEWSGmeCRR91s&usqp=CAU" title="PostGIS"  alt="PostGIS" width="80" height="80"/>
       </div>
     </td>
   <tr>
