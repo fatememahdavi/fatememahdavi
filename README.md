@@ -36,7 +36,7 @@ I’m a graduate of Master's degree in Geospatial Information System(GIS) and Fu
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
         <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="120" height="40"/>&nbsp;
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="120" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="100" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="130" height="40"/>&nbsp;
       </div>
     </td>
     <td valign="top" width="33%">
