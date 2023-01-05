@@ -14,14 +14,8 @@
   </div>
 -->
 
-<h1 align="center">
-  hey there 👋
-</h1>
-  
- ---
-
 ### :woman_technologist: About Me :
-I’m a MSc student in Geospatial Information System(GIS) and Full Stack Developer from Iran.
+I’m a graduate of Master's degree in Geospatial Information System(GIS) and Full Stack Developer from Iran.
 
 - 🔭 I’m working as a GIS specialist-Software Engineer and contributing to frontend, backend and data analysis.
 - 🌱 I'm currently learning web application technologies.
@@ -40,8 +34,8 @@ I’m a MSc student in Geospatial Information System(GIS) and Full Stack Develop
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-        <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="60" height="40"/>&nbsp;
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="100" height="40"/>&nbsp;
+        <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="120" height="40"/>&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="120" height="40"/>&nbsp;
         <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="100" height="40"/>&nbsp;
       </div>
     </td>
