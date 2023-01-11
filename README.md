@@ -34,9 +34,9 @@ I’m a graduate of Master's degree in Geospatial Information System(GIS) and Fu
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-        <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="120" height="40"/>&nbsp;
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="120" height="40"/>&nbsp;
-        <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="130" height="40"/>&nbsp;
+        <img src="https://leafletjs.com/docs/images/logo.png" title="Leaflet" alt="leaflet " width="105" height="25"/>&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-kwH7W0V2XgDPq6XCZR5J3osYe5PKJYPpg&usqp=CAU" title="OpenLayers" alt="OpenLayers " width="105" height="25"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/wiki/CesiumGS/cesium/logos/Cesium_Logo_Color.jpg" title="Cesium" alt="Cesium " width="108" height="25"/>&nbsp;
       </div>
     </td>
     <td valign="top" width="33%">
@@ -55,8 +55,8 @@ I’m a graduate of Master's degree in Geospatial Information System(GIS) and Fu
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="Sqlalchemy"  alt="Sqlalchemy" width="70" height="45"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FNO7mwZmOiehB-AQ8TwcZOZZW6Xuf2ReBg&usqp=CAU" title="ElasticSearch" alt="ElasticSearch" width="90" height="40"/>&nbsp;
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiAoOLt5if09E0Yy8fs-jFRLJLbnXnKhHdwATtChXz4w4V2Mi6DSUt4IAEWSGmeCRR91s&usqp=CAU" title="PostGIS"  alt="PostGIS" width="80" height="80"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FNO7mwZmOiehB-AQ8TwcZOZZW6Xuf2ReBg&usqp=CAU" title="ElasticSearch" alt="ElasticSearch" width="80" height="30"/>&nbsp;
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiAoOLt5if09E0Yy8fs-jFRLJLbnXnKhHdwATtChXz4w4V2Mi6DSUt4IAEWSGmeCRR91s&usqp=CAU" title="PostGIS"  alt="PostGIS" width="55" height="55"/>
       </div>
     </td>
   <tr>
