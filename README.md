@@ -88,7 +88,8 @@ I’m a graduate of Master's degree in Geospatial Information System(GIS) and Fu
 </table> 
 
 ---
-
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatememahdavi&theme=radical)](https://git.io/streak-stats)
+-->
 
